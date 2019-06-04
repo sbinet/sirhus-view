@@ -17,3 +17,6 @@ alternatively, one can download the binaries for your OS/platform from:
 - https://cern.ch/binet/in2p3/sirhus-view/sirhus-view-darwin-amd64.exe
 - https://cern.ch/binet/in2p3/sirhus-view/sirhus-view-linux-amd64.exe
 - https://cern.ch/binet/in2p3/sirhus-view/sirhus-view-windows-amd64.exe
+
+
+![img](https://github.com/sbinet/sirhus-view/raw/master/sirhus-view.png)
